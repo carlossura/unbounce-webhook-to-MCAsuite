@@ -1,2 +1,5 @@
 # unbounce-webhook-to-MCAsuite
-add Contacts &amp; Deals MCA SUITE from UNBOUNCE
+add Contacts and Deals MCA SUITE from UNBOUNCE
+
+The script will allow you to post the details from unbounce forms to MCAsuite.
+It can be changed to post any field.
