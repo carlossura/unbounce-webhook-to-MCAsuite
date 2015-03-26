@@ -55,7 +55,7 @@ $curl_post_data['firstName']       = $first_name;         // Lead First Name
 $curl_post_data['lastName']       = $last_name;         // Lead Last Name
 $curl_post_data['contactType']	  = $contact_type;	    // Lead Contact Type
 $curl_post_data['companyName']	  = $company_name;      // Lead Company Name
-//$curl_post_data['dba']	  = $company_name;
+//$curl_post_data['dba']	  = $company_name;  // If needed adding a Deal
 //$curl_post_data['companyMainPhone']	  = $phone_number;
 $curl_post_data['businessPhone']	  = $phone_number;  // Lead Business Phone
 
